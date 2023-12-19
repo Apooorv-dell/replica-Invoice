@@ -1,0 +1,14 @@
+.signup-div{
+  background-image: url('bg-1.jpg');
+  background-size:contain;
+  
+  width: 100vw;
+  height: 100vh;
+  /* display: flex; */
+
+}
+
+.invoice-div{
+  padding: 5rem;
+  
+}
